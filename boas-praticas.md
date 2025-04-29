@@ -1,0 +1,3 @@
+-Sempre adicionar mensagens claras e objetivas;
+-Manter sempre a boa identaçao e boas praticas;
+-Encorajar a boa conversação entre a equipe.
